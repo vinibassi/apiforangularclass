@@ -1,0 +1,9 @@
+C:\Users\Vinicius\source\rabiscos\WebApiForAngular\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp3.0\DALPhotos.deps.json
+C:\Users\Vinicius\source\rabiscos\WebApiForAngular\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp3.0\DALPhotos.runtimeconfig.json
+C:\Users\Vinicius\source\rabiscos\WebApiForAngular\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp3.0\DALPhotos.runtimeconfig.dev.json
+C:\Users\Vinicius\source\rabiscos\WebApiForAngular\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp3.0\DALPhotos.dll
+C:\Users\Vinicius\source\rabiscos\WebApiForAngular\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp3.0\DALPhotos.pdb
+C:\Users\Vinicius\source\rabiscos\WebApiForAngular\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp3.0\DALPhotos.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\rabiscos\WebApiForAngular\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp3.0\DALPhotos.AssemblyInfo.cs
+C:\Users\Vinicius\source\rabiscos\WebApiForAngular\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp3.0\DALPhotos.dll
+C:\Users\Vinicius\source\rabiscos\WebApiForAngular\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp3.0\DALPhotos.pdb
