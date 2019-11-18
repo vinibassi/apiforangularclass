@@ -1,4 +1,4 @@
-﻿namespace DALPhotos
+﻿namespace DAL.Photo
 {
     public class Photo
     {

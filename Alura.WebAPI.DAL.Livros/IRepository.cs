@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace DALPhotos
+namespace DAL
 {
     public interface IRepository<TEntity> where TEntity : class
     {

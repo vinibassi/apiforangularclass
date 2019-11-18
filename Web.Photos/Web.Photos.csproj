@@ -20,7 +20,7 @@
 
 
   <ItemGroup>
-    <ProjectReference Include="..\Alura.WebAPI.DAL.Livros\DALPhotos.csproj" />
+    <ProjectReference Include="..\Alura.WebAPI.DAL.Livros\DAL.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,5 +1,7 @@
 using System;
-using DALPhotos;
+using DAL;
+using DAL.Photo;
+using DAL.User;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -22,14 +24,20 @@ namespace Web.Photos
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<PhotoContext>(options => {
+            services.AddDbContext<ApiForAngularContext>(options => {
                 options.UseSqlServer(Configuration.GetConnectionString("PhotosApi"));
             });
             
             services.AddHttpContextAccessor();
-            services.AddTransient<IRepository<Photo>, RepositorioBaseEF<Photo>>();
 
-            //services.AddScoped<IPhotosHttpClient, PhotosHttpClient>();
+            services.AddTransient<IRepository<Photo>, RepositorioBaseEF<Photo>>();
+            services.AddTransient<IRepository<User>, RepositorioBaseEF<User>>();
+            services.AddTransient<IUserRepository, UserRepository>();
+
+            services.AddCors(c =>
+            {
+                c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin());
+            });
 
             services.Configure<CookiePolicyOptions>(options =>
             {
@@ -57,9 +65,10 @@ namespace Web.Photos
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
+
+            app.UseCors(options => options.AllowAnyOrigin());
             //app.UseHttpsRedirection();
             app.UseStaticFiles();
-
             app.UseRouting();
 
             app.UseAuthorization();

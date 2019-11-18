@@ -1,12 +1,12 @@
 ﻿using System.Linq;
 
-namespace DALPhotos
+namespace DAL
 {
     public class RepositorioBaseEF<TEntity>: IRepository<TEntity> where TEntity: class
     {
-        private readonly PhotoContext _context;
+        private readonly ApiForAngularContext _context;
 
-        public RepositorioBaseEF(PhotoContext context)
+        public RepositorioBaseEF(ApiForAngularContext context)
         {
             _context = context;
         }

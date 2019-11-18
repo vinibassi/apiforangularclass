@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace DALPhotos
+namespace DAL.Photo
 {
     internal class PhotoConfiguration : IEntityTypeConfiguration<Photo>
     {

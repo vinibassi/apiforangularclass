@@ -7,3 +7,13 @@ C:\Users\Vinicius\source\rabiscos\WebApiForAngular\Alura.WebAPI.DAL.Livros\obj\D
 C:\Users\Vinicius\source\rabiscos\WebApiForAngular\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp3.0\DALPhotos.AssemblyInfo.cs
 C:\Users\Vinicius\source\rabiscos\WebApiForAngular\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp3.0\DALPhotos.dll
 C:\Users\Vinicius\source\rabiscos\WebApiForAngular\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp3.0\DALPhotos.pdb
+C:\Users\vinic\source\rabiscos\ApiForAngularApp\apiforangularclass\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp3.0\DALPhotos.deps.json
+C:\Users\vinic\source\rabiscos\ApiForAngularApp\apiforangularclass\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp3.0\DALPhotos.runtimeconfig.json
+C:\Users\vinic\source\rabiscos\ApiForAngularApp\apiforangularclass\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp3.0\DALPhotos.runtimeconfig.dev.json
+C:\Users\vinic\source\rabiscos\ApiForAngularApp\apiforangularclass\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp3.0\DALPhotos.dll
+C:\Users\vinic\source\rabiscos\ApiForAngularApp\apiforangularclass\Alura.WebAPI.DAL.Livros\bin\Debug\netcoreapp3.0\DALPhotos.pdb
+C:\Users\vinic\source\rabiscos\ApiForAngularApp\apiforangularclass\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp3.0\DALPhotos.csprojAssemblyReference.cache
+C:\Users\vinic\source\rabiscos\ApiForAngularApp\apiforangularclass\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp3.0\DALPhotos.AssemblyInfoInputs.cache
+C:\Users\vinic\source\rabiscos\ApiForAngularApp\apiforangularclass\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp3.0\DALPhotos.AssemblyInfo.cs
+C:\Users\vinic\source\rabiscos\ApiForAngularApp\apiforangularclass\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp3.0\DALPhotos.dll
+C:\Users\vinic\source\rabiscos\ApiForAngularApp\apiforangularclass\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp3.0\DALPhotos.pdb

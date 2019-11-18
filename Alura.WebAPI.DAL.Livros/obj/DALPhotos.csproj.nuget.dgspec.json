@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vinicius\\source\\rabiscos\\WebApiForAngular\\Alura.WebAPI.DAL.Livros\\DALPhotos.csproj": {}
+    "C:\\Users\\vinic\\source\\rabiscos\\ApiForAngularApp\\apiforangularclass\\Alura.WebAPI.DAL.Livros\\DALPhotos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vinicius\\source\\rabiscos\\WebApiForAngular\\Alura.WebAPI.DAL.Livros\\DALPhotos.csproj": {
+    "C:\\Users\\vinic\\source\\rabiscos\\ApiForAngularApp\\apiforangularclass\\Alura.WebAPI.DAL.Livros\\DALPhotos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vinicius\\source\\rabiscos\\WebApiForAngular\\Alura.WebAPI.DAL.Livros\\DALPhotos.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\source\\rabiscos\\ApiForAngularApp\\apiforangularclass\\Alura.WebAPI.DAL.Livros\\DALPhotos.csproj",
         "projectName": "DALPhotos",
-        "projectPath": "C:\\Users\\Vinicius\\source\\rabiscos\\WebApiForAngular\\Alura.WebAPI.DAL.Livros\\DALPhotos.csproj",
-        "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vinicius\\source\\rabiscos\\WebApiForAngular\\Alura.WebAPI.DAL.Livros\\obj\\",
+        "projectPath": "C:\\Users\\vinic\\source\\rabiscos\\ApiForAngularApp\\apiforangularclass\\Alura.WebAPI.DAL.Livros\\DALPhotos.csproj",
+        "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vinic\\source\\rabiscos\\ApiForAngularApp\\apiforangularclass\\Alura.WebAPI.DAL.Livros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -24,7 +24,7 @@
     ".NETCoreApp,Version=v3.0": {
       "Web.Photos/1.0.0": {
         "dependencies": {
-          "DALPhotos": "1.0.0",
+          "DAL": "1.0.0",
           "Microsoft.AspNetCore.Http.Extensions": "2.2.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "3.0.0",
@@ -2050,17 +2050,17 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
-      "DALPhotos/1.0.0": {
+      "DAL/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "3.0.0",
           "Microsoft.EntityFrameworkCore.Relational": "3.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.0.0"
         },
         "runtime": {
-          "DALPhotos.dll": {}
+          "DAL.dll": {}
         },
         "compile": {
-          "DALPhotos.dll": {}
+          "DAL.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.0.0.0": {
@@ -4869,7 +4869,7 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
-    "DALPhotos/1.0.0": {
+    "DAL/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
